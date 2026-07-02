@@ -16,7 +16,7 @@ O repositório tem como finalidade disponibilizar evidências e materiais de apo
 ## Materiais disponíveis
 
 - Questionário utilizado na pesquisa;
-- Dados anonimizados ou tabelas-resumo;
+- Tabelas-resumo da pesquisa, organizadas a partir dos dados agregados;
 - Gráficos gerados a partir dos resultados;
 - Materiais complementares utilizados na apresentação dos dados.
 
