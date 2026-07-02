@@ -1,0 +1,12 @@
+Este repositório contém materiais complementares utilizados exclusivamente para fins acadêmicos no Trabalho de Conclusão de Curso de Lucas Ramos Monteiro, intitulado:
+
+"Consequências do uso indiscriminado e constante de tecnologias digitais na saúde mental e física: uma análise multidisciplinar sob as perspectivas de Sistemas de Informação e Psicologia".
+
+Os dados disponibilizados encontram-se organizados de forma agregada e anonimizada, sem coleta de nome, e-mail ou qualquer dado de identificação direta dos participantes.
+
+O uso, reprodução ou citação dos materiais deste repositório deve respeitar a autoria do trabalho e ter finalidade acadêmica, educacional ou científica.
+
+Autor: Lucas Ramos Monteiro
+Instituição: Centro Universitário La Salle do Rio de Janeiro
+Curso: Bacharelado em Sistemas de Informação
+Ano: 2026
